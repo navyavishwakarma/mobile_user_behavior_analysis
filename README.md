@@ -1,5 +1,5 @@
 # Mobile Device Usage & User Behavior Analysis
-##📖 Project Overview
+## 📖 Project Overview
 
 This project analyzes smartphone usage patterns to understand how device interaction influences user behavior. Using data analysis and machine learning, the project predicts user behavior classes based on mobile usage habits.
 

@@ -28,6 +28,7 @@ This project analyzes smartphone usage patterns to understand how device interac
 📂 Dataset
 
 Dataset used: Mobile Device Usage and User Behavior Dataset
+
 Source: Kaggle
 
 The dataset includes features such as App Usage Time, Screen On Time, Battery Drain, Number of Apps Installed, Data Usage, Gender, Operating System and User Behavior Class (Target Variable)

@@ -38,8 +38,11 @@ The dataset includes features such as App Usage Time, Screen On Time, Battery Dr
 The dataset was cleaned and prepared by:
 
 ✔ Handling missing values
+
 ✔ Encoding categorical variables (Gender, Operating System)
+
 ✔ Feature scaling applied to numerical variables
+
 ✔ Removing inconsistencies
 
 📈 Exploratory Data Analysis (EDA)
@@ -72,9 +75,13 @@ The following visualizations were created:
 🔍 Key Insights
 
 ✔ Higher screen on time is strongly linked to heavy usage behavior
+
 ✔ Battery drain increases significantly with increased app usage
+
 ✔ App usage time is a strong indicator of behavior classification
+
 ✔ Moderate users maintain balanced usage patterns
+
 ✔ Device usage metrics clearly distinguish user behavior classes
 
 🤖 Machine Learning Models Used
@@ -98,7 +105,9 @@ The following classification models were trained and compared:
 Models were evaluated using:
 
 ✔ Accuracy Score
+
 ✔ Confusion Matrix
+
 ✔ Model Comparison
 
 📈 Model Accuracy Comparison

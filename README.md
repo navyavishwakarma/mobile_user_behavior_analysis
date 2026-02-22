@@ -1,9 +1,9 @@
 # Mobile Device Usage & User Behavior Analysis
-📖 Project Overview
+##📖 Project Overview
 
 This project analyzes smartphone usage patterns to understand how device interaction influences user behavior. Using data analysis and machine learning, the project predicts user behavior classes based on mobile usage habits.
 
-🎯 Objective
+##🎯 Objective
 
 • Perform data cleaning and preprocessing
 
@@ -15,7 +15,7 @@ This project analyzes smartphone usage patterns to understand how device interac
 
 • Compare multiple classification algorithms
 
-🛠 Tools & Libraries Used
+##🛠 Tools & Libraries Used
 
 • Python
 
@@ -25,7 +25,7 @@ This project analyzes smartphone usage patterns to understand how device interac
 
 • Scikit-learn - machine learning 
 
-📂 Dataset
+##📂 Dataset
 
 Dataset used: Mobile Device Usage and User Behavior Dataset
 
@@ -33,7 +33,7 @@ Source: Kaggle
 
 The dataset includes features such as App Usage Time, Screen On Time, Battery Drain, Number of Apps Installed, Data Usage, Gender, Operating System and User Behavior Class (Target Variable)
 
-📊 Data Cleaning and Preprocessing
+##📊 Data Cleaning and Preprocessing
 
 The dataset was cleaned and prepared by:
 
@@ -45,7 +45,7 @@ The dataset was cleaned and prepared by:
 
 ✔ Removing inconsistencies
 
-📈 Exploratory Data Analysis (EDA)
+##📈 Exploratory Data Analysis (EDA)
 
 EDA was performed to understand usage patterns and behavioral trends.
 
@@ -59,7 +59,7 @@ Key analysis included:
 
 • Correlation between usage features
 
-📉 Visualizations
+##📉 Visualizations
 
 The following visualizations were created: 
 
@@ -72,7 +72,7 @@ The following visualizations were created:
 • Distribution plots of usage metrics
 
 
-🔍 Key Insights
+##🔍 Key Insights
 
 ✔ Higher screen on time is strongly linked to heavy usage behavior
 
@@ -84,7 +84,7 @@ The following visualizations were created:
 
 ✔ Device usage metrics clearly distinguish user behavior classes
 
-🤖 Machine Learning Models Used
+##🤖 Machine Learning Models Used
 
 The following classification models were trained and compared:
 
@@ -100,7 +100,7 @@ The following classification models were trained and compared:
 
   • Classifies users based on similarity to neighbors
   
-📊 Model Evaluation
+##📊 Model Evaluation
 
 Models were evaluated using:
 
@@ -110,7 +110,7 @@ Models were evaluated using:
 
 ✔ Model Comparison
 
-📈 Model Accuracy Comparison
+##📈 Model Accuracy Comparison
 
 • Logistic Regression: High accuracy
 
@@ -120,11 +120,11 @@ Models were evaluated using:
 
 Logistic Regression achieved the highest accuracy on the test dataset.
 
-🧾 Confusion Matrix
+##🧾 Confusion Matrix
 
 A confusion matrix was generated to visualize prediction performance and classification correctness.
 
-🧠 Conclusion
+##🧠 Conclusion
 
 This project demonstrates that smartphone usage patterns can effectively predict user behavior classes. Machine learning models can analyze user interaction habits to provide insights useful for:
 
@@ -136,7 +136,7 @@ This project demonstrates that smartphone usage patterns can effectively predict
 
 • UX research
 
-🚀 Future Improvements
+##🚀 Future Improvements
 
 • Implement cross-validation
 
@@ -146,6 +146,6 @@ This project demonstrates that smartphone usage patterns can effectively predict
 
 • Deploy as a web application
 
-📜 License
+##📜 License
 This project is created for learning and practice purposes. 
 Feel free to fork, modify and improve it.
